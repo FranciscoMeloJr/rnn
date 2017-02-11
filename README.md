@@ -1,5 +1,6 @@
 # rnn: recurrent neural networks #
 
+#Personal test changes
 This is a Recurrent Neural Network library that extends Torch's nn. 
 You can use it to build RNNs, LSTMs, GRUs, BRNNs, BLSTMs, and so forth and so on.
 This library includes documentation for the following objects:
